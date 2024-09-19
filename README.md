@@ -6,7 +6,7 @@ Sou aluna do componente curricular de Pensamento Computacional
 
 Utilizo em aula a plataforma
 
-[ALURA](htts://www.alura.com.br)
+[ALURA](htts://wwW.alura.com.br)
 
 ### Você pode entrar em contato comigo 
 
