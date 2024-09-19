@@ -1,16 +1,13 @@
-## Hi there 👋
+**Bem vindo ao meu perfil**
 
-<!--
-**analiviaabreu/analiviaabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Lívia
 
-Here are some ideas to get you started:
+Sou aluna do componente curricular de Pensamento Computacional 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo em aula a plataforma [ALURA](htts://www.alura.com.br)
+
+### Você pode entrar em contato comigo 
+
+ana.abreu05@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/D6P7ayaAqY0AAAAd/the-chosen-os-escolhidos.gif)
